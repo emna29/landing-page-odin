@@ -1,0 +1,29 @@
+.navbar {
+   display:flex;
+   align-items: center;
+   justify-content: space-between;
+   gap: 1rm;
+   background-color: black;
+
+   
+}h1{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    color: red;s
+}
+
+
+
+ul {
+    display: flex;
+    gap: 2rem;
+    margin-right: 500px;
+    color:  red;
+    
+}
+    
+    
+
+
+
+

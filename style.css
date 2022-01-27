@@ -47,6 +47,18 @@ p{
 img{
     height: 320px;
 }
+
+h1{
+    text-align: center;
+    color:red;
+}
+
+.TOP-images{
+    display: flex;
+    height: auto;
+    width: 250%;
+
+}
    
  
     
